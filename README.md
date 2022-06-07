@@ -1,3 +1,6 @@
+![round bin compartme](https://user-images.githubusercontent.com/105476524/172415870-84be5b6f-87e2-47eb-ba32-af3aedb95345.jpg)
+![throw garbagr](https://user-images.githubusercontent.com/105476524/172417834-73c250e3-5806-4692-a72e-a6b6699657eb.jpg)
+![humidity plus motion](https://user-images.githubusercontent.com/105476524/172417904-c4180ace-9567-4cf6-890a-1b0e1eda2d22.jpg)
 ![led light](https://user-images.githubusercontent.com/105476524/172312395-72c18eba-eaf0-4024-8322-038e856def25.jpg)
 ![smsssss](https://user-images.githubusercontent.com/105476524/172307648-692cd7d8-b5d1-48c8-9d75-ddb4a3270275.jpg)
 ![buzzerrrr](https://user-images.githubusercontent.com/105476524/172307200-8fa9bdf9-c66e-478f-8207-7e8f98ae573d.jpeg)
