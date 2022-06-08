@@ -1,3 +1,5 @@
+![buzzerrrr](https://user-images.githubusercontent.com/105476524/172307200-8fa9bdf9-c66e-478f-8207-7e8f98ae573d.jpeg)
+![buzzzzzzz](https://user-images.githubusercontent.com/105476524/172659294-51e78072-77a6-4327-80f3-b00c4aa52c7a.jpeg)
 ![round bin compartme](https://user-images.githubusercontent.com/105476524/172415870-84be5b6f-87e2-47eb-ba32-af3aedb95345.jpg)
 ![throw garbagr](https://user-images.githubusercontent.com/105476524/172417834-73c250e3-5806-4692-a72e-a6b6699657eb.jpg)
 ![humidity plus motion](https://user-images.githubusercontent.com/105476524/172417904-c4180ace-9567-4cf6-890a-1b0e1eda2d22.jpg)
