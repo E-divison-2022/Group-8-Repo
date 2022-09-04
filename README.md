@@ -1,3 +1,5 @@
+![wireless humidity sensor](https://user-images.githubusercontent.com/105476524/188304534-d28ef8f9-a917-44e9-8ce0-8d1ff9d1abe4.jpg)
+![dht22 sensor](https://user-images.githubusercontent.com/105476524/188304540-dc594c11-1c36-4b0a-9c91-2af273588240.jpg)
 ![inductive proximity 4](https://user-images.githubusercontent.com/105476524/188303280-4136e948-d8a5-4d1c-8859-f88e381759d2.jpg)
 ![proximity senosr 3](https://user-images.githubusercontent.com/105476524/188303289-8d28b4a3-89dc-4e2b-b5d2-8a91bfbbfbd3.jpg)
 ![ultra 2](https://user-images.githubusercontent.com/105476524/188303296-69da6e1b-40ca-4c52-9782-5bc8ecdb067e.jpg)
